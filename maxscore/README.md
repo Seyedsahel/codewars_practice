@@ -1,1 +1,1 @@
-https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/c
+https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/c
